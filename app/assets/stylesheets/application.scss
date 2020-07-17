@@ -16,7 +16,7 @@
 
  @import "bulma";
 
- .navbar-brand .title
+ .navbar-brand .title 
  {
     color: white;
  }
@@ -30,7 +30,7 @@
     }
  }
 
- .notification:not(:last-child)
+ .notifications:not(:last-child)
  {
     margin-bottom: 0;
  }
